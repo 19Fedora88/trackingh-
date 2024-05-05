@@ -1,0 +1,6 @@
+git clone https://github.com/spyboy-productions/r4ven.git
+cd r4ven
+pip3 install -r requirements.txt
+python3 r4ven.py
+chmod +x r4ven.py
+python3 r4ven.py -t https://replit.com/myproject/images -p 8080
